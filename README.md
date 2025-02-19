@@ -1,5 +1,31 @@
 # Welcome to your Expo app 👋
 
+## Application Preview
+
+<div align="center">
+  <div style="display: inline-block; margin: 8px;">
+    <img src="./assets/previews/1.png" alt="Home Screen" width="250px" />
+  </div>
+  <div style="display: inline-block; margin: 8px;">
+    <img src="./assets/previews/2.png" alt="Feature Screen" width="250px" />
+  </div>
+  <div style="display: inline-block; margin: 8px;">
+    <img src="./assets/previews/3.png" alt="Details Screen" width="250px" />
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: inline-block; margin: 8px;">
+    <img src="./assets/previews/4.png" alt="Settings Screen" width="250px" />
+  </div>
+  <div style="display: inline-block; margin: 8px;">
+    <img src="./assets/previews/5.png" alt="Profile Screen" width="250px" />
+  </div>
+  <div style="display: inline-block; margin: 8px;">
+    <img src="./assets/previews/6.png" alt="Menu Screen" width="250px" />
+  </div>
+</div>
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
@@ -48,4 +74,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
 # emoji-photo-saver
